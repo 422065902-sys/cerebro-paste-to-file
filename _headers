@@ -1,0 +1,5 @@
+/*
+  Content-Security-Policy: default-src 'none'; script-src 'sha256-1DngCRXY9FiAZdr3KLIMRbh7d9PDO+dHa1vsI6EbKLo='; style-src 'sha256-eI4h4M4HGlKqwFYyphb5fSW8DdqVH33k6HQte8owd6k='; connect-src 'none'; form-action 'none'; base-uri 'none'; frame-src 'none'; img-src 'none'
+  Referrer-Policy: no-referrer
+  X-Content-Type-Options: nosniff
+  Cache-Control: no-cache
